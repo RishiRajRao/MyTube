@@ -1,2 +1,2 @@
 # MyTube
-It is a YouTube apibased small app which function like YouTube. It is made based on react,redux and ajax.
+It is a YouTube api based small app which function like YouTube. It is  based on react,redux and ajax.
